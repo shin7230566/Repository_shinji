@@ -7,7 +7,7 @@
 ![apstop](images/apstopnoacces.png)  
 
 * APサーバーを再起動させた場合   
-![aprestart](images/aprestarthub.png)  
+![aprestart](images/aprestartgithub.png)  
 ![aprestart](images/aprestartsolt.png)  
 
 * DBサーバーの名前とバージョン(Mysql ver8.4.0)    
