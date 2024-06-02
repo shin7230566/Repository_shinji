@@ -13,5 +13,6 @@
 * DBサーバーの名前とバージョン(Mysql ver8.4.0)    
 ![dbname](images/dbname.png) 
 
-* Railsの構成管理ツール(bundler)  
-![railsver(images/railsver.png) 
+* Railsの構成管理ツール(Bundler)　　
+![aprestart](images/aprestartsolt.png) 
+
