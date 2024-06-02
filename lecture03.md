@@ -8,11 +8,11 @@
 
 * APサーバーを再起動させた場合   
 ![aprestart](images/aprestartgithub.png)  
-![aprestart](images/aprestartsolt.png)  
+![aprestart](images/aprestartresolt.png)  
 
 * DBサーバーの名前とバージョン(Mysql ver8.4.0)    
 ![dbname](images/dbname.png) 
 
 * Railsの構成管理ツール(Bundler)　　
-![aprestart](images/aprestartsolt.png) 
+![aprestart](images/railsver.png) 
 
